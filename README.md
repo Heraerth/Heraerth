@@ -18,7 +18,7 @@
 ### 🚀 Active Development & Vision
 
 - 📱 **Mobile UI Engineering:** Currently focusing on the frontend architecture and structure of **DATAra**, an application tracking data metrics. 
-- 🔗 **Bridge Builder:** Designing user interfaces that cleanly interact with underlying backend services and external machine learning APIs.
+- 👥 **High-Impact Collaborator:** Highly active in team-driven repositories, frequently driving project momentum as a primary contributor with a high commit and push frequency.
 - 🌱 **The Growth Mindset:** Actively breaking away from a reliance on AI generation. Striving to write code purely from scratch to master structure, logic, and component lifecycles independently.
 
 ---
@@ -53,12 +53,14 @@
     <td valign="top" colspan="2">
       <h4>📜 Languages I've Explored & Used</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=bdcebe" alt="Python" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=e2d4f0" alt="C++" />
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&color=e2d4f0" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&color=fce1e4" alt="Java" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=d4f0f0" alt="C++" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&color=deecfc" alt="PHP" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=f9d5e5" alt="JavaScript" />
       <br/><br/>
       <ul>
-        <li>Utilized across academic milestones, system frameworks, and background services.</li>
+        <li>Utilized across academic milestones, system frameworks, mobile codebases, and background services.</li>
       </ul>
     </td>
   </tr>
