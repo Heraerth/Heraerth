@@ -35,7 +35,7 @@
       <br/><br/>
       <ul>
         <li>Configuring responsive layouts using clean CSS sizing structures.</li>
-        <li>Structuring modular component components for frontend scalability.</li>
+        <li>Structuring modular components for frontend scalability.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -46,6 +46,19 @@
       <ul>
         <li>Deep diving into fluid, native-feeling CSS animations from scratch.</li>
         <li>Refining UI-to-API network integrations for sleek performance.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h4>📜 Languages I've Explored & Used</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=bdcebe" alt="Python" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&color=e2d4f0" alt="C++" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&color=deecfc" alt="PHP" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=f9d5e5" alt="JavaScript" />
+      <br/><br/>
+      <ul>
+        <li>Utilized across academic milestones, system frameworks, and background services.</li>
       </ul>
     </td>
   </tr>
